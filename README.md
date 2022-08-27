@@ -3,11 +3,11 @@
 php ile üsküdar üniversitesi öğrenci platformu için üyelik kayıt ve giriş uygulaması <br/>
 apache server ve phpmyadmin kullanarak yaptığım kayıt ve giriş sayfasıdır <br/>
 
-*hatasız bir kayıt işlemi yaptığımda;*
+**hatasız bir kayıt işlemi yaptığımda;**
 ![kayit](https://github.com/beyzaxd/uyelik-kayit-giris-uygulamasi/blob/main/resimler/kayit.PNG)
-*phpmyadmin'e kaydediyor*
+**phpmyadmin'e kaydediyor**
 ![kayit](https://github.com/beyzaxd/uyelik-kayit-giris-uygulamasi/blob/main/resimler/kayit2.PNG)
-*hatalı kayıt işlemi yapıldığında oluşan bazı durumlar*
+**hatalı kayıt işlemi yapıldığında oluşan bazı durumlar;**
 ![kayit](https://github.com/beyzaxd/uyelik-kayit-giris-uygulamasi/blob/main/resimler/kayit3.PNG)
 
 ![kayit](https://github.com/beyzaxd/uyelik-kayit-giris-uygulamasi/blob/main/resimler/kayit4.PNG)
@@ -25,3 +25,11 @@ apache server ve phpmyadmin kullanarak yaptığım kayıt ve giriş sayfasıdır
 ![kayit](https://github.com/beyzaxd/uyelik-kayit-giris-uygulamasi/blob/main/resimler/kayit10.PNG)
 
 ![kayit](https://github.com/beyzaxd/uyelik-kayit-giris-uygulamasi/blob/main/resimler/kayit11.PNG)
+
+**kayıt olduğum kullanıcı ile giris yapıyorum**
+![kayit](https://github.com/beyzaxd/uyelik-kayit-giris-uygulamasi/blob/main/resimler/giris.PNG)
+
+![kayit](https://github.com/beyzaxd/uyelik-kayit-giris-uygulamasi/blob/main/resimler/giris1.PNG)
+
+**kayıt olmadığım halde profil sayfasına gitmek istersem;**
+![kayit](https://github.com/beyzaxd/uyelik-kayit-giris-uygulamasi/blob/main/resimler/profile.PNG)
